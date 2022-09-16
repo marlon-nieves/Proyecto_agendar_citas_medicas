@@ -1,5 +1,5 @@
-Proyecto MyMedicalAppointment
-En el proyecto MyMedicalAppointment hicimos uso de la POO donde analizamos y solucionamos las necesidades y problemas de nuestro cliente doctor. 
+Proyecto Agendar citas medicas
+En el proyecto Agendar citas medicas hicimos uso de la POO donde analizamos y solucionamos las necesidades y problemas de nuestro cliente doctor. 
 Elaboramos una aplicacion muy sencilla que podia hacer las siguientes funciones, solucionaban los problemas de los Doctores, Pacientes y Enfermeras. 
 Estas son las funciones que implemetamos: Del lado del Doctor:
 
